@@ -8,8 +8,7 @@ Hi! I'm Dhanyadha, a B.Tech Artificial Intelligence and Data Science student. Th
 ## 🎯 Goal
 - Learn Python from basics to advanced.
 - Build strong problem-solving skills.
-- Practice coding consistently for 90 days.
-- Prepare for software engineering interviews.
+- Build practical, real-world projects to build a solid portfolio.
 
 ## 📅 Progress
 
