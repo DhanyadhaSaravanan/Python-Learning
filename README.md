@@ -16,7 +16,8 @@ Hi! I'm Dhanyadha, a B.Tech Artificial Intelligence and Data Science student. Th
 |------|-------|--------|
 | Day 1 | Python Basics | ✅ Completed |
 | Day 2 | Python Operators | ✅ Completed |
-| Day 3 | Coming Soon | ⏳ |
+| Day 3 | Python Functions| ✅ Completed |
+| Day 4 | Coming Soon | ⏳| 
 
 ## 🛠️ Tools Used
 - Python
